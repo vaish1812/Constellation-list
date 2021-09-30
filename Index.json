@@ -43,7 +43,15 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of December.",
         "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "Taurus"],
         "brightest star": "Hamal"
-    }
+    },
     
-   
+   {
+        "id": 6,
+        "name": "Virgo",
+        "image": "https://en.wikipedia.org/wiki/File:Astrological_sign_Virgo_at_the_Wisconsin_State_Capitol.jpg",
+        "area": "1294 sd deg",
+        "visibility": "visible in the evening sky from mid-March to late June",
+        "bordering constellations": ["Boötes", "Coma Berenices", "Corvus", "Crater", "Hydra", "Leo", "Libra and Serpens Caput"],
+        "brightest star": "Spica"
+    }
 ]
