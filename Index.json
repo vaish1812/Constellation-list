@@ -45,7 +45,7 @@
         "brightest star": "Hamal"
         },
      
-     {
+    {
         "id": 6,
         "name": "Cancer",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
@@ -53,6 +53,15 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
         "bordering constellations": ["Persaus", "Triangulum"],
         "brightest star": "β Cnc"
+        },
+     {
+        "id": 7,
+        "name": "Vigro",
+        "image": "https://kidadl.com/articles/valiant-virgo-facts-sure-to-please-every-earth-baby",
+        "area": "306 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of may",
+        "bordering constellations": ["leo", "hydra"],
+        "brightest star": "spica"
         },
         
     
