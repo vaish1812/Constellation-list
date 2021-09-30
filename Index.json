@@ -43,7 +43,37 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of December.",
         "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "Taurus"],
         "brightest star": "Hamal"
-    }
+    },
+      {
+        "id": 7,
+        "name": "Draco",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "1083 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "γ Dra"
+        },
+         
+     {
+        "id": 8,
+        "name": "Crater",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "1083 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "γ Dra"
+        },
+   
+     {
+        "id": 9,
+        "name": "Gemini",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "514 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "pollux"
+        },
+    
     
    
 ]
