@@ -41,9 +41,10 @@
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
         "area": "441 sq deg",
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of December.",
-        "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "Taurus"],
+        "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "TauruS"],
         "brightest star": "Hamal"
     },
+
     
    {
         "id": 6,
@@ -54,4 +55,44 @@
         "bordering constellations": ["Boötes", "Coma Berenices", "Corvus", "Crater", "Hydra", "Leo", "Libra and Serpens Caput"],
         "brightest star": "Spica"
     }
+
+  {
+        "id": 7,
+        "name": "Cancer",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "506 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "β Cnc"
+      },
+      {
+        "id": 8,
+        "name": "Draco",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "1083 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "γ Dra"
+        },
+         
+     {
+        "id": 9,
+        "name": "Crater",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "1083 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "γ Dra"
+        },
+   
+     {
+        "id": 10,
+        "name": "Gemini",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "514 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "pollux"
+        }
+
 ]
