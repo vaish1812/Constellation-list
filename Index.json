@@ -1,5 +1,5 @@
 [
-     {//constellation new
+     {
         "id": 1,
         "name": "Andromeda",
         "image": "https://starregistration.net/cdn-cgi/image/format=auto/media/wysiwyg/Constellations/Andromeda.png",
@@ -43,7 +43,47 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of December.",
         "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "TauruS"],
         "brightest star": "Hamal"
-    }
+        },
+     
+     {
+        "id": 6,
+        "name": "Cancer",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "506 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "β Cnc"
+        },
+        
+     {
+        "id": 7,
+        "name": "Draco",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "1083 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "γ Dra"
+        },
+         
+     {
+        "id": 8,
+        "name": "Crater",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "1083 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "γ Dra"
+        },
+   
+     {
+        "id": 9,
+        "name": "Gemini",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "514 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "pollux"
+        },
     
    
 ]
