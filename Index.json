@@ -45,5 +45,14 @@
         "brightest star": "Hamal"
     }
     
-   
+    {
+        "id": 6,
+        "name": "Cancer",
+        "image": ""https://en.wikipedia.org/wiki/Cancer_(constellation)#/media/File:Cancer_IAU.svg,
+        "area": "ancient (Ptolemy)",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of December.",
+        "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "TauruS"],
+        "brightest star": "Tarf"
+    },
+    
 ]
