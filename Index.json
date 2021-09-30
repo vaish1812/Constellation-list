@@ -105,7 +105,20 @@
         "bordering constellations": ["leo", "hydra"],
         "brightest star": "spica"
         },
+
+     
+        {
+             "id": 11,
+             "name": "Orion",
+             "image": "https://cdn.mos.cms.futurecdn.net/dkX3vVSXH5aKLHKdyB2FHK-970-80.jpg",
+             "area": "604 sq deg",
+             "visibility": "Best seen between latitudes 85 and minus 75 degrees. Its right ascension is 5 hours, and its declination is 5 degrees.",
+             "bordering constellations": ["Betelgeuse", "Bellatrix"],
+             "brightest star": "Orion Nebula "
+        },
+
         
+
 
     
 
