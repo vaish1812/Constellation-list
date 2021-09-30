@@ -43,7 +43,16 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of December.",
         "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "Taurus"],
         "brightest star": "Hamal"
-    }
+    },
+     {
+        "id": 12,
+        "name": "Orion",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OrionProper.gif/220px-OrionProper.gif",
+        "area":  "594 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of Januaryl",
+        "bordering constellations": ["Gemini", "Taurus", "Eridanus", "Lepus","Monoceros"],
+        "brightest star": "Rigel"
+     }
     
    
 ]
