@@ -41,8 +41,9 @@
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
         "area": "441 sq deg",
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of December.",
-        "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "Taurus"],
+        "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "TauruS"],
         "brightest star": "Hamal"
+
     },
      {
         "id": 12,
@@ -52,7 +53,71 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of Januaryl",
         "bordering constellations": ["Gemini", "Taurus", "Eridanus", "Lepus","Monoceros"],
         "brightest star": "Rigel"
-     }
+     
+
+        },
+     
+  {
+        "id": 6,
+        "name": "Virgo",
+        "image": "https://en.wikipedia.org/wiki/File:Astrological_sign_Virgo_at_the_Wisconsin_State_Capitol.jpg",
+        "area": "1294 sd deg",
+        "visibility": "visible in the evening sky from mid-March to late June",
+        "bordering constellations": ["Boötes", "Coma Berenices", "Corvus", "Crater", "Hydra", "Leo", "Libra and Serpens Caput"],
+        "brightest star": "Spica"
+    },
+
+  {
+        "id": 7,
+        "name": "Cancer",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "506 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "β Cnc"
+      },
+      {
+        "id": 8,
+        "name": "Draco",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "1083 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "γ Dra"
+        },
+         
+     {
+        "id": 9,
+        "name": "Crater",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "1083 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "γ Dra"
+        },
+
+     {
+        "id": 10,
+        "name": "Vigro",
+        "image": "https://kidadl.com/articles/valiant-virgo-facts-sure-to-please-every-earth-baby",
+        "area": "306 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of may",
+        "bordering constellations": ["leo", "hydra"],
+        "brightest star": "spica"
+        },
+        
+
     
+
    
+     {
+        "id": 11,
+        "name": "Gemini",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "514 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "pollux"
+        }
+
 ]
