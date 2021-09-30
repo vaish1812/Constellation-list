@@ -44,8 +44,20 @@
         "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "TauruS"],
         "brightest star": "Hamal"
     },
-  {
+
+    
+   {
         "id": 6,
+        "name": "Virgo",
+        "image": "https://en.wikipedia.org/wiki/File:Astrological_sign_Virgo_at_the_Wisconsin_State_Capitol.jpg",
+        "area": "1294 sd deg",
+        "visibility": "visible in the evening sky from mid-March to late June",
+        "bordering constellations": ["Boötes", "Coma Berenices", "Corvus", "Crater", "Hydra", "Leo", "Libra and Serpens Caput"],
+        "brightest star": "Spica"
+    }
+
+  {
+        "id": 7,
         "name": "Cancer",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
         "area": "506 sq deg",
@@ -54,7 +66,7 @@
         "brightest star": "β Cnc"
       },
       {
-        "id": 7,
+        "id": 8,
         "name": "Draco",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
         "area": "1083 sq deg",
@@ -64,7 +76,7 @@
         },
          
      {
-        "id": 8,
+        "id": 9,
         "name": "Crater",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
         "area": "1083 sq deg",
@@ -74,7 +86,7 @@
         },
    
      {
-        "id": 9,
+        "id": 10,
         "name": "Gemini",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
         "area": "514 sq deg",
@@ -82,4 +94,5 @@
         "bordering constellations": ["Persaus", "Triangulum"],
         "brightest star": "pollux"
         }
+
 ]
