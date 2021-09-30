@@ -8,6 +8,24 @@
         "bordering constellations": ["Persaus", "Cassiopeia", "Lacerta", "Pegasus", "Pisces"],
         "brightest star": "α And"
     },
+        {
+        "id": 2,
+        "name": "Antlia",
+        "image": "shorturl.at/xAHT9",
+        "area": "	239 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of April",
+        "bordering constellations": ["Hydra", "Pyxis", "Vela", "Centaurus"],
+        "brightest star": "	α Ant"
+    },
+        {
+        "id": 3,
+        "name": "Apus",
+        "image": "shorturl.at/sPZ459",
+        "area": "	206 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of July",
+        "bordering constellations": ["Triangulam Australe", "Circinus", "Musca", "Chamaeleon","Octans","Pavo","Ara"],
+        "brightest star": "α Aps"
+    },
     {
         "id": 4,
         "name": "Aries",
