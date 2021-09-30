@@ -54,6 +54,15 @@
         "bordering constellations": ["Persaus", "Triangulum"],
         "brightest star": "β Cnc"
         },
+       {
+        "id": 7,
+        "name": "Draco",
+        "image": "https://cdn.mos.cms.futurecdn.net/jXUruVUZJFJ3vDH8ZSjNZn-970-80.jpg.",
+        "area": "1083 sq deg",
+        "visibility": "Visible at latitudes between +90° and −15°. Best visible at 21:00 (9 p.m.) during the month of July.",
+        "bordering constellations": ["Hercules", "Ursa"],
+        "brightest star": "Gamma Draconis"
+        },
         
     
    
