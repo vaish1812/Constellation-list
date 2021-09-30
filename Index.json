@@ -3,9 +3,9 @@
         "id": 1,
         "name": "Aries",
         "image": "",
-        "area": 441 sq deg,
+        "area": "441 sq deg",
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of December.",
-        "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "Taurus"]
+        "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "Taurus"],
         "brightest star": "Hamal"
     },
     
