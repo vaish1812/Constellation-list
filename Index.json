@@ -131,6 +131,16 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
         "bordering constellations": ["Persaus", "Triangulum"],
         "brightest star": "pollux"
+        },
+     
+     {
+        "id": 13,
+        "name": "Sagittarius",
+        "image": "https://cdn.mos.cms.futurecdn.net/JFgaRHV2yLuEvgr5YU2qZn-1024-80.jpg.webp",
+        "area": "867 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Scorpio", "Aquila"],
+        "brightest star": "Epsilon Sagittarii"
         }
 
 ]
