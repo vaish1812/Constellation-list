@@ -160,5 +160,15 @@
         "bordering constellations": ["Draco","Hercules","Velpecula","Cygnus"],
         "brightest star": "Vega"
 
+        },
+     {
+        "id": 17,
+        "name": "Corona Borealis",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Corona_Borealis_IAU.svg",
+        "area": "179 sq. deg.",
+        "visibility": "Best visible in the northern hemisphere in the spring and summer.",
+        "bordering constellations": ["Hercules" 'Boötes" "Serpens" "Caput"],
+        "brightest star": "Alphecca"
+
         }
 ]
