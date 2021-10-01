@@ -139,13 +139,14 @@
         "bordering constellations": ["Scorpio", "Aquila"],
         "brightest star": "Epsilon Sagittarii"
         },
-      {
+
+     {
         "id": 15,
-        "name": "Scorpius",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/ScorpiusCC.jpg",
-        "area": "497 sq deg",
-        "visibility": "Best visible at 21:00 (9 p.m.) during the month of July..",
-        "bordering constellations": ["Sagittarius", "Libra"],
-        "brightest star": "Antares"
+        "name": "Leo",
+        "image": "https://earthsky.org/upl/2021/04/Leo-constellation-Derekscope-e1618236661588.png",
+        "area": "947 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of April.",
+        "bordering constellations": ["SUrsa Major"],
+        "brightest star": "Regulus"
         }
 ]
