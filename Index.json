@@ -167,14 +167,14 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Corona_Borealis_IAU.svg",
         "area": "179 sq. deg.",
         "visibility": "Best visible in the northern hemisphere in the spring and summer.",
-        "bordering constellations": ["Hercules" 'Boötes" "Serpens" "Caput"],
+        "bordering constellations": ["Hercules" , "Serpens", "Caput"],
         "brightest star": "Alphecca"
 
         },
       {
-        "id": 18,
+        "id": 20,
         "name": "Libra",
-        "image": "https://earthsky.org/upl/2021/04/Leo-constellation-Derekscope-e1618236661588.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/LibraCC.jpg",
         "area": "	538 sq deg",
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of June",
         "bordering constellations": ["Virgo","Hydra"],
