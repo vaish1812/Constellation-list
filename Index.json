@@ -199,15 +199,32 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of January",
         "bordering constellations": ["Columba","Lepus","Dorado","Eridanus"],
         "brightest star": "α Cae "
+
     },
     
-        {
+        
+  
+       {
         "id": 23,
-        "name": "Lepus",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/LepusCC.jpg/180px-LepusCC.jpg",
-        "area": "290 sq deg",
-        "visibility": " It is best seen in the northern hemisphere in June and is completely visible at latitudes between 35 degrees and -90 degrees.",
-        "bordering constellations": ["Orion","Monoceros","Canis"],
-        "brightest star": "Beta Lepus"
-    }
+        "name": "Puppis",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PuppisCC.jpg/300px-PuppisCC.jpg",
+        "area": "	673 sq. deg",
+        "visibility": "It can be seen from January through May and is visible at latitudes between 40 degrees and -90 degrees",
+        "bordering constellations": ["Carina","Canis Major","Columba"],
+        "brightest star": "Zeta"
+       },
+
+        
+      {
+        "id": 24,
+        "name": "Oreon",
+        "image": "https://www.shutterstock.com/search/orion+constellation",
+        "area": "	345 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of march",
+        "bordering constellations": ["Columba","Lepus","Dorado","Eridanus"],
+        "brightest star": "Regulus "
+        }
+
+
+
 ]
