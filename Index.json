@@ -181,6 +181,7 @@
         "brightest star": "Zubeneschamali "
 
         },
+
         {
         "id": 21,
         "name": "Corvus",
@@ -189,5 +190,16 @@
         "visibility": "Best visible at latitudes between +60° and -90° and is best seen at culmination during the month of May.",
         "bordering constellations": ["Virgo", "Crater", "Hydra"],
         "brightest star": "γ Crv"
-    }
+    },
+       {
+        "id": 22,
+        "name": "Caelum",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fcaelum-constellation-starry-night-sky-cluster-vector-26494365&psig=AOvVaw1cOCANbexCpSulS6kKYy2R&ust=1633159425705000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDDqI3XqPMCFQAAAAAdAAAAABAD",
+        "area": "125 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of January",
+        "bordering constellations": ["Columba","Lepus","Dorado","Eridanus"],
+        "brightest star": "α Cae "
+
+        }
+
 ]
