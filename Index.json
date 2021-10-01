@@ -223,7 +223,16 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of march",
         "bordering constellations": ["Columba","Lepus","Dorado","Eridanus"],
         "brightest star": "Regulus "
-        }
+        },
+     {
+        "id": 29,
+        "name": "perseus",
+        "image": "shorturl.at/xAHT9",
+        "area": "	600 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of December",
+        "bordering constellations": ["Aris", "Taurus", "Andromeda", "Auriga"],
+        "brightest star": "	α per"
+    }
 
 
 
