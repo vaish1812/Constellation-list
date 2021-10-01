@@ -170,5 +170,15 @@
         "bordering constellations": ["Hercules" 'Boötes" "Serpens" "Caput"],
         "brightest star": "Alphecca"
 
+        },
+      {
+        "id": 18,
+        "name": "Libra",
+        "image": "https://earthsky.org/upl/2021/04/Leo-constellation-Derekscope-e1618236661588.png",
+        "area": "	538 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of June",
+        "bordering constellations": ["Virgo","Hydra"],
+        "brightest star": "	Zubeneschamali "
+
         }
 ]
