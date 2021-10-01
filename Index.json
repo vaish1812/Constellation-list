@@ -138,5 +138,14 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
         "bordering constellations": ["Scorpio", "Aquila"],
         "brightest star": "Epsilon Sagittarii"
+        },
+     {
+        "id": 15,
+        "name": "Monoceros",
+        "image": "https://en.wikipedia.org/wiki/Monoceros#/media/File:MonocerosCC.jpg",
+        "area": "482 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of February.",
+        "bordering constellations": ["Orion", "Canis Major","Canis Minor","Gemini","Hydra","Lepus","Puppis"],
+        "brightest star": "Beta Monocerotis"
         }
 ]
