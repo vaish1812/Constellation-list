@@ -201,5 +201,15 @@
         "brightest star": "α Cae "
 
         }
+      {
+        "id": 23,
+        "name": "Oreon",
+        "image": "https://www.shutterstock.com/search/orion+constellation",
+        "area": "	345 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of march",
+        "bordering constellations": ["Columba","Lepus","Dorado","Eridanus"],
+        "brightest star": "Regulus "
+
+        },
 
 ]
