@@ -45,17 +45,7 @@
         "brightest star": "Hamal"
 
     },
-     {
-        "id": 12,
-        "name": "Orion",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OrionProper.gif/220px-OrionProper.gif",
-        "area":  "594 sq. deg",
-        "visibility": "Best visible at 21:00 (9 p.m.) during the month of Januaryl",
-        "bordering constellations": ["Gemini", "Taurus", "Eridanus", "Lepus","Monoceros"],
-        "brightest star": "Rigel"
-     
 
-        },
      
   {
         "id": 6,
@@ -117,6 +107,17 @@
              "brightest star": "Orion Nebula "
         },
 
+        {
+        "id": 12,
+        "name": "Orion",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OrionProper.gif/220px-OrionProper.gif",
+        "area":  "594 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of Januaryl",
+        "bordering constellations": ["Gemini", "Taurus", "Eridanus", "Lepus","Monoceros"],
+        "brightest star": "Rigel"
+     
+
+        },
         
 
 
@@ -124,7 +125,7 @@
 
    
      {
-        "id": 11,
+        "id": 13,
         "name": "Gemini",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
         "area": "514 sq deg",
@@ -134,7 +135,7 @@
         },
      
      {
-        "id": 13,
+        "id": 14,
         "name": "Sagittarius",
         "image": "https://cdn.mos.cms.futurecdn.net/JFgaRHV2yLuEvgr5YU2qZn-1024-80.jpg.webp",
         "area": "867 sq deg",
