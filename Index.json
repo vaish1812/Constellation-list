@@ -200,7 +200,20 @@
         "bordering constellations": ["Columba","Lepus","Dorado","Eridanus"],
         "brightest star": "α Cae "
 
-        }
+
+    },
+  
+       {
+        "id": 23,
+        "name": "Puppis",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PuppisCC.jpg/300px-PuppisCC.jpg",
+        "area": "	673 sq. deg",
+        "visibility": "It can be seen from January through May and is visible at latitudes between 40 degrees and -90 degrees",
+        "bordering constellations": ["Carina","Canis Major","Columba"],
+        "brightest star": "Zeta"
+       },
+
+        
       {
         "id": 23,
         "name": "Oreon",
@@ -209,7 +222,7 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of march",
         "bordering constellations": ["Columba","Lepus","Dorado","Eridanus"],
         "brightest star": "Regulus "
-
         },
+
 
 ]
