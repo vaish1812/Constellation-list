@@ -232,8 +232,15 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of December",
         "bordering constellations": ["Aris", "Taurus", "Andromeda", "Auriga"],
         "brightest star": "	α per"
-    }
-
-
-
+    },
+   {
+        "id": 30,
+        "name": "Pisces",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/PiscesCC.jpg",
+        "area": "889 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of November.",
+        "bordering constellations": ["Triangulum","Andromeda","Pegasus","Aquarius","Cetus","Aries"],
+        "brightest star": "η Psc"
+    }   
+ 
 ]
