@@ -150,5 +150,15 @@
         "bordering constellations": ["SUrsa Major"],
         "brightest star": "Regulus"
 
+        },
+     {
+        "id": 16,
+        "name": "Lyra",
+        "image": "https://skyandtelescope.org/wp-content/uploads/Lyra-deep-exposure-June-14-2021-S.jpg",
+        "area": "286 sq. deg.",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of August.",
+        "bordering constellations": ["Draco","Hercules","Velpecula","Cygnus"],
+        "brightest star": "Vega"
+
         }
 ]
