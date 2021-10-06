@@ -241,6 +241,15 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of November.",
         "bordering constellations": ["Triangulum","Andromeda","Pegasus","Aquarius","Cetus","Aries"],
         "brightest star": "η Psc"
+    },
+     {
+        "id": 32,
+        "name": "Vela",
+        "image": "https://www.constellation-guide.com/wp-content/uploads/2021/09/Vela-constellation-map.webp",
+        "area": "500 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March",
+        "bordering constellations": [" Antlia", "Carina", "Centaurus", "Puppis", "Pyxis"],
+        "brightest star": "Gamma Velorum"
     }   
  
 ]
