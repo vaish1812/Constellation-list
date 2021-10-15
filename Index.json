@@ -242,6 +242,19 @@
         "bordering constellations": ["Triangulum","Andromeda","Pegasus","Aquarius","Cetus","Aries"],
         "brightest star": "η Psc"
     },
+
+    {
+        "id": 31,
+        "name": "Boötes",
+        "image": "https://www.constellation-guide.com/wp-content/uploads/2021/07/Bootes-constellation-map-530x640.webp",
+        "area": "907 sq. deg",
+        "visibility": " best visible at 9 p.m. during the month of June.",
+        "bordering constellations": ["Virgo", "Coma Berenices", "Canes Venatici","Hercules", "Corona Borealis","Serpens Caput"],
+        "brightest star": "Arcturus"
+    }
+     
+
+
      {
 
         "id": 32,
@@ -262,4 +275,5 @@
 
     }   
  
+
 ]
