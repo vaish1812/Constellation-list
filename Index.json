@@ -251,7 +251,7 @@
         "visibility": " best visible at 9 p.m. during the month of June.",
         "bordering constellations": ["Virgo", "Coma Berenices", "Canes Venatici","Hercules", "Corona Borealis","Serpens Caput"],
         "brightest star": "Arcturus"
-    }
+    },
      
 
 
@@ -264,7 +264,8 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of March",
         "bordering constellations": [" Antlia", "Carina", "Centaurus", "Puppis", "Pyxis"],
         "brightest star": "Gamma Velorum"
-     }
+     },
+     {
         "id": 33,
         "name": "Vulpecula",
         "image": "https://www.constellation-guide.com/wp-content/uploads/2021/08/Vulpecula-constellation-map.webp",
@@ -273,7 +274,18 @@
         "bordering constellations": ["Cygnus", "Delphinus", "Hercules", "Lyra", "Pegasus","Sagitta"],
         "brightest star": " α Vulpeculae"
 
-    }   
+    },
+     {
+        "id": 34,
+        "name": "Vulp",
+        "image": "https://www.constellation-guide.com/wp-content/uploads/2021/08/Vulpecula-constellation-map.webp",
+        "area": "288 sq. deg",
+        "visibility": "Best visible during Fall,the month of October",
+        "bordering constellations": ["Cygnus", "Delphinus", "Hercules", "Lyra", "Pegasus","Sagitta"],
+        "brightest star": " α Vulp"
+
+    },
+     
  
 
 ]
