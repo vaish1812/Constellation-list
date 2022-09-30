@@ -251,11 +251,10 @@
         "visibility": " best visible at 9 p.m. during the month of June.",
         "bordering constellations": ["Virgo", "Coma Berenices", "Canes Venatici","Hercules", "Corona Borealis","Serpens Caput"],
         "brightest star": "Arcturus"
-    }
+    },
      
 
-
-     {
+{
 
         "id": 32,
         "name": "Vela",
@@ -264,7 +263,8 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of March",
         "bordering constellations": [" Antlia", "Carina", "Centaurus", "Puppis", "Pyxis"],
         "brightest star": "Gamma Velorum"
-     }
+     },
+     {
         "id": 33,
         "name": "Vulpecula",
         "image": "https://www.constellation-guide.com/wp-content/uploads/2021/08/Vulpecula-constellation-map.webp",
@@ -273,6 +273,16 @@
         "bordering constellations": ["Cygnus", "Delphinus", "Hercules", "Lyra", "Pegasus","Sagitta"],
         "brightest star": " α Vulpeculae"
 
+    },
+
+{
+        "id": 31,
+        "name": "Hydra",
+        "image": "https://en.wikipedia.org/wiki/Hydra_(constellation)#/media/File:Hydra_IAU.svg",
+        "area": "1303 sq. deg. ",
+        "visibility": " Best visible at 21:00 (9 p.m.) during the month of April.",
+        "bordering constellations": ["Antlia", "Cancer", "Canis Minor", "Centaurus", "Corvus", "Leo", "Libra"],
+        "brightest star": "Alphard"
     }   
  
 
