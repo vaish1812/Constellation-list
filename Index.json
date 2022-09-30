@@ -236,8 +236,7 @@
     },
      
 
-
-     {
+{
 
         "id": 32,
         "name": "Vela",
@@ -257,6 +256,15 @@
         "brightest star": " α Vulpeculae"
 
     },
+{
+        "id": 31,
+        "name": "Hydra",
+        "image": "https://en.wikipedia.org/wiki/Hydra_(constellation)#/media/File:Hydra_IAU.svg",
+        "area": "1303 sq. deg. ",
+        "visibility": " Best visible at 21:00 (9 p.m.) during the month of April.",
+        "bordering constellations": ["Antlia", "Cancer", "Canis Minor", "Centaurus", "Corvus", "Leo", "Libra"],
+        "brightest star": "Alphard"
+    },
      {
         "id": 34,
         "name": "Vulp",
@@ -266,8 +274,5 @@
         "bordering constellations": ["Cygnus", "Delphinus", "Hercules", "Lyra", "Pegasus","Sagitta"],
         "brightest star": " α Vulp"
 
-    },
-     
- 
-
+    }
 ]
