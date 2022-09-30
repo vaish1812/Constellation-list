@@ -8,7 +8,7 @@
         "bordering constellations": ["Persaus", "Cassiopeia", "Lacerta", "Pegasus", "Pisces"],
         "brightest star": "α And"
     },
-        {
+     {
         "id": 2,
         "name": "Antlia",
         "image": "shorturl.at/xAHT9",
@@ -17,7 +17,7 @@
         "bordering constellations": ["Hydra", "Pyxis", "Vela", "Centaurus"],
         "brightest star": "	α Ant"
     },
-        {
+     {
         "id": 3,
         "name": "Apus",
         "image": "shorturl.at/sPZ459",
@@ -26,7 +26,7 @@
         "bordering constellations": ["Triangulam Australe", "Circinus", "Musca", "Chamaeleon","Octans","Pavo","Ara"],
         "brightest star": "α Aps"
     },
-    {
+     {
         "id": 4,
         "name": "Aquarius",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
@@ -35,7 +35,7 @@
         "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "Taurus"],
         "brightest star": "β Aqr"
     },
-        {
+     {
         "id": 5,
         "name": "Aries",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
@@ -45,9 +45,7 @@
         "brightest star": "Hamal"
 
     },
-
-     
-  {
+     {
         "id": 6,
         "name": "Virgo",
         "image": "https://en.wikipedia.org/wiki/File:Astrological_sign_Virgo_at_the_Wisconsin_State_Capitol.jpg",
@@ -56,8 +54,7 @@
         "bordering constellations": ["Boötes", "Coma Berenices", "Corvus", "Crater", "Hydra", "Leo", "Libra and Serpens Caput"],
         "brightest star": "Spica"
     },
-
-  {
+     {
         "id": 7,
         "name": "Cancer",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
@@ -65,8 +62,8 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
         "bordering constellations": ["Persaus", "Triangulum"],
         "brightest star": "β Cnc"
-      },
-      {
+    },
+     {
         "id": 8,
         "name": "Draco",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
@@ -74,9 +71,8 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
         "bordering constellations": ["Persaus", "Triangulum"],
         "brightest star": "γ Dra"
-        },
-         
-     {
+      },
+       {
         "id": 9,
         "name": "Crater",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
@@ -84,9 +80,8 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
         "bordering constellations": ["Persaus", "Triangulum"],
         "brightest star": "γ Dra"
-        },
-
-     {
+      },
+       {
         "id": 10,
         "name": "Vigro",
         "image": "https://kidadl.com/articles/valiant-virgo-facts-sure-to-please-every-earth-baby",
@@ -95,9 +90,7 @@
         "bordering constellations": ["leo", "hydra"],
         "brightest star": "spica"
         },
-
-     
-        {
+         {
              "id": 11,
              "name": "Orion",
              "image": "https://cdn.mos.cms.futurecdn.net/dkX3vVSXH5aKLHKdyB2FHK-970-80.jpg",
@@ -105,22 +98,17 @@
              "visibility": "Best seen between latitudes 85 and minus 75 degrees. Its right ascension is 5 hours, and its declination is 5 degrees.",
              "bordering constellations": ["Betelgeuse", "Bellatrix"],
              "brightest star": "Orion Nebula "
-        },
-
-        {
-        "id": 12,
-        "name": "Orion",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OrionProper.gif/220px-OrionProper.gif",
-        "area":  "594 sq. deg",
-        "visibility": "Best visible at 21:00 (9 p.m.) during the month of Januaryl",
-        "bordering constellations": ["Gemini", "Taurus", "Eridanus", "Lepus","Monoceros"],
-        "brightest star": "Rigel"
-     
-
-        },
-        
-   
-     {
+       },
+       {
+             "id": 12,
+             "name": "Orion",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OrionProper.gif/220px-OrionProper.gif",
+             "area":  "594 sq. deg",
+             "visibility": "Best visible at 21:00 (9 p.m.) during the month of Januaryl",
+             "bordering constellations": ["Gemini", "Taurus", "Eridanus", "Lepus","Monoceros"],
+             "brightest star": "Rigel"
+      },
+       {
         "id": 13,
         "name": "Gemini",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
@@ -128,19 +116,16 @@
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
         "bordering constellations": ["Persaus", "Triangulum"],
         "brightest star": "pollux"
+       },
+        {
+             "id": 14,
+             "name": "Sagittarius",
+             "image": "https://cdn.mos.cms.futurecdn.net/JFgaRHV2yLuEvgr5YU2qZn-1024-80.jpg.webp",
+             "area": "867 sq deg",
+             "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+             "bordering constellations": ["Scorpio", "Aquila"],
+             "brightest star": "Epsilon Sagittarii"
         },
-     
-     {
-        "id": 14,
-        "name": "Sagittarius",
-        "image": "https://cdn.mos.cms.futurecdn.net/JFgaRHV2yLuEvgr5YU2qZn-1024-80.jpg.webp",
-        "area": "867 sq deg",
-        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
-        "bordering constellations": ["Scorpio", "Aquila"],
-        "brightest star": "Epsilon Sagittarii"
-        },
-
-
      {
         "id": 15,
         "name": "Leo",
@@ -201,9 +186,6 @@
         "brightest star": "α Cae "
 
     },
-    
-        
-  
        {
         "id": 23,
         "name": "Puppis",
